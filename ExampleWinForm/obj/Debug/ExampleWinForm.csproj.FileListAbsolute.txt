@@ -1,0 +1,10 @@
+C:\Users\litalha\Desktop\ExampleWinForm\ExampleWinForm\bin\Debug\ExampleWinForm.exe.config
+C:\Users\litalha\Desktop\ExampleWinForm\ExampleWinForm\bin\Debug\ExampleWinForm.exe
+C:\Users\litalha\Desktop\ExampleWinForm\ExampleWinForm\bin\Debug\ExampleWinForm.pdb
+C:\Users\litalha\Desktop\ExampleWinForm\ExampleWinForm\obj\Debug\ExampleWinForm.csproj.AssemblyReference.cache
+C:\Users\litalha\Desktop\ExampleWinForm\ExampleWinForm\obj\Debug\ExampleWinForm.BasicCalculator.resources
+C:\Users\litalha\Desktop\ExampleWinForm\ExampleWinForm\obj\Debug\ExampleWinForm.Properties.Resources.resources
+C:\Users\litalha\Desktop\ExampleWinForm\ExampleWinForm\obj\Debug\ExampleWinForm.csproj.GenerateResource.cache
+C:\Users\litalha\Desktop\ExampleWinForm\ExampleWinForm\obj\Debug\ExampleWinForm.csproj.CoreCompileInputs.cache
+C:\Users\litalha\Desktop\ExampleWinForm\ExampleWinForm\obj\Debug\ExampleWinForm.exe
+C:\Users\litalha\Desktop\ExampleWinForm\ExampleWinForm\obj\Debug\ExampleWinForm.pdb
